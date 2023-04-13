@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/main.css">
+    <title>Meme Cachorrão</title>
+</head>
+<body>
+ <div><h1> Eai</h1></div>
+ <h1>Patrão</h1>
+<div><img src="./E8X2s6rXIAUiVib.jpg" class="body"></div>
+<h1></h1>
+<h1></h1>
+<h1>eu</h1>
+<h1>tenho</h1>
+<h1>vegonha</h1>
+<div><img src="./meme4.jpg" class="body"></div>
+<h1> </h1>
+<h1></h1>
+<h1>mas</h1>
+<h1>você</h1>
+<h1>acredita</h1>
+<h1>em</h1>
+<h1>cachorro</h1>
+<h1>cururu</h1>
+<h1>?</h1>
+<img src="./cachaorro cururu.jpg" class="body">
+<h3>↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓   selecione a resposta ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ 
+</h3>
+<form>
+    <label> Respostas: <select>
+        <option>Sim</option>
+        <option>Talvez</option>
+        <option>Oque eu vou ganhar com isso?</option>
+        <option> Não otario</option>
+    </select></label>
+</form>
+<div class=" botão">
+    <button class= "butina">
+        Enviar
+    </button>
+
+</body>
+</html>
