@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/main.css">
+    <title>Document</title>
+</head>
+<body>
+   
+
+ 
+<div class="container">...</div>
+
+
+<div class="centred">   
+
+ <h1 class="a">@luanfonsecax</h1>
+    
+
+<h1 class="l">Login:</h1>
+
+<input type="Login" class="login">
+
+
+<h1 class="s">Senha:</h1>
+
+<input type="Senha" class="senha">
+
+<button class="botao">Entrar</button>
+
+</div>
+
+</body>
+</html>
