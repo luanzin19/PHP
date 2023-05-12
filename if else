@@ -1,0 +1,13 @@
+<?php 
+
+$f = 4
+if ($f <= 30) {
+  echo "verdade"
+
+else {
+  echo"falso"
+}
+
+}
+
+?>
